@@ -1,0 +1,1 @@
+$cadena = join (" lo que sea ", @areglo);
