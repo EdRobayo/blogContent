@@ -1,0 +1,2 @@
+$cadena = "cogito ergo sum...";
+@arreglo = split(/ex/,$cadena);
