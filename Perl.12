@@ -1,0 +1,1 @@
+$busqueda = grep (/ex/i, @arreglo);
