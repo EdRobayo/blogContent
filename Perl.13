@@ -1,1 +1,0 @@
-@slice = @arreglo[$k,$i,$j,...];
